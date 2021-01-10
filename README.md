@@ -68,7 +68,7 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 
 ### Daughterboard
 
-- Can use [USB-C daughterboard + cable](https://anykeys.eu/product/usb-c-daughterboard-cable/)
+- Can use the one compatible with ai03's Unified Daughterboard
 
 ## Guide on how to get parts
 
@@ -103,7 +103,7 @@ There is only an outline here at the moment. Detailed steps will be added if nee
   - I ordered a brass and aluminum plate from LaserBoost and a polycarbonate plate from BIG BLUE SAW
 
 ### Daughterboard
-- Most easy way is to buy [USB-C daughterboard + cable](https://anykeys.eu/product/usb-c-daughterboard-cable/)
+- Most easy way is to buy from vendors like anykeys.eu and HINEY
 - Secure with four M2x4mm screws
 - In my case, I ordered a Unified Daughterboard PCB from JLCPCB, purchased parts from LCSC and soldered them myself. Recommended for those who love soldering and are good at it
   - Also need to get a JST-SH 4-pin cable. I bought one from AliExpress with a 150mm length. It was a little too long, but there is no problem with using it
