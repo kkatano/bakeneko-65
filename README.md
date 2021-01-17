@@ -1,4 +1,4 @@
-# Bakeneko 65
+# Bakeneko 65 V2
 
 A simple 65% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini
 
