@@ -76,7 +76,7 @@ There is only an outline here at the moment. Detailed steps will be added if nee
 
 ### PCB
 
-- The gerber files are attached to the release page
+- The gerber files are attached to the release page (https://github.com/kkatano/bakeneko-65/releases)
   - These files are optimized for JLCPCB's SMT assembly service so may be required to modify when ordering from other manufacturers
   - Keep in mind that they do not solder JST connector so you must solder it yourself
 
