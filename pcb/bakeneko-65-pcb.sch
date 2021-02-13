@@ -7,7 +7,7 @@ encoding utf-8
 Sheet 1 2
 Title "Bakeneko 65"
 Date "2020-08-01"
-Rev "1"
+Rev "3.0"
 Comp ""
 Comment1 ""
 Comment2 ""
