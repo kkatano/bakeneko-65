@@ -58,7 +58,7 @@ TBU
 
 ## Contact
 
-- Discord: kkatano#2078
+- Discord: https://discord.gg/fMY96TeEwV
 
 ## Special thanks to
 
