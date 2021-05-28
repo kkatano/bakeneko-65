@@ -28,7 +28,7 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 - Weight:
   - PLA Case: 390g
   - Aluminum Case: 760g
-- O-ring gasket: VMQ-50(Silicone 50 duro) AS568-265
+- O-ring gasket: VMQ-50(Silicone 50 duro) AS568-264 / AS568-265
 
 ## Mounting Style
 
