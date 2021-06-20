@@ -1,17 +1,13 @@
 # Bakeneko 65 V3
 
-**V3 is still a work in progress.**
- - Previous versions are available for download on [the release page](https://github.com/kkatano/bakeneko-65/releases)
- - Don't use the files for manufacturing until first version is released
-
 A simple 65% keyboard for DIYers. This project is a special homage to TGR x Singa UNIKORN 60 and OTD 356 Mini.
 
 ![Bakeneko 65](./image/bakeneko-65-draft.png)
 
 ## Features
 
-- Seamless tray case
-- O-ring gasket mount
+- Single piece tray case
+- O-ring gasket mount (Friction fit)
 - USB-C with [Unified Daughterboard](https://github.com/ai03-2725/Unified-Daughterboard)
 - QMK firmware and VIA ready
 
@@ -28,37 +24,22 @@ A simple 65% keyboard for DIYers. This project is a special homage to TGR x Sing
 - Weight:
   - PLA Case: 390g
   - Aluminum Case: 760g
-- O-ring gasket: VMQ-50(Silicone 50 duro) AS568-264 / AS568-265
+- O-ring gasket: VMQ-50(Silicone 50 duro) AS568-264
 
-## Mounting Style
+## Notes
 
-TBU
+- All files are to be used at your own risk
+- As for stabilizers, only PCB snap ins are supported
 
-## Typing Sounds
+## Resources
 
-TBU
-
-## Showcase
-
-TBU
-
-## Assets
-
-### PCB
-- [bakeneko-65/pcb](./pcb)
-
-### Firmware
-- [https://github.com/qmk/qmk_firmware/tree/master/keyboards/bakeneko65](https://github.com/qmk/qmk_firmware/tree/master/keyboards/bakeneko65)
-
-### Case
-- [bakeneko-65/case](./case)
-
-### Plate
-- [bakeneko-65/plate](./plate)
-
-## Contact
-
+- Documents: https://drive.google.com/drive/folders/1tddSihOS8Pgf1lTQOjHohYCl8efxXIeH
+  - Parts guide and other useful information
+  - Will be added and updated as needed
 - Discord: https://discord.gg/fMY96TeEwV
+  - Have fun with community members
+  - Talk about Bakeneko builds and mods, and share your works
+  - You can also contact me from here
 
 ## Special thanks to
 
